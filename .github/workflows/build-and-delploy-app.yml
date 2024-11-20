@@ -13,7 +13,7 @@ on:
       - main
 
 env:
-  ResourceGroup: ent-demo-rg
+  ResourceGroup: ent-demo-run-through-rg
   SwaName: ent-demo-swa
 
 jobs:

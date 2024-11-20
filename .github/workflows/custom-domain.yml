@@ -4,7 +4,7 @@ on:
   workflow_dispatch
 
 env:
-  ResourceGroup: ent-demo-rg
+  ResourceGroup: ent-demo-run-through-rg
   SwaName: ent-demo-swa
   SubDomain: ent-demo
 
